@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b9bbe1-652d-4e94-beed-088195f25070" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryMinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PurePriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tuple.java" afterDir="false" />
+    <list default="true" id="37b9bbe1-652d-4e94-beed-088195f25070" name="Changes" comment="BinaryMinHeap Implmentation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DirectedGraph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +41,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731787330906</updated>
-      <workItem from="1731787332102" duration="1145000" />
+      <workItem from="1731787332102" duration="1928000" />
     </task>
+    <task id="LOCAL-00001" summary="BinaryMinHeap Implmentation">
+      <created>1731788731360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731788731360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +58,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="BinaryMinHeap Implmentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinaryMinHeap Implmentation" />
   </component>
 </project>
